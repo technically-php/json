@@ -99,5 +99,5 @@ All notable changes to this project will be documented in the [CHANGELOG](./CHAN
 
 
 [getcomposer]: https://getcomposer.org/
-[author]: https://github.com/e1himself?utm_source=web&utm_medium=github&utm_campaign=technically/array-container
-[badge]: https://github.com/technically-php/array-container/actions/workflows/test.yml/badge.svg
+[author]: https://github.com/e1himself?utm_source=web&utm_medium=github&utm_campaign=technically/json
+[badge]: https://github.com/technically-php/json/actions/workflows/test.yml/badge.svg
