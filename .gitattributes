@@ -1,0 +1,7 @@
+# Exclude build/test files from archive
+
+/.github          export-ignore
+/.gitattributes   export-ignore
+/.gitignore       export-ignore
+/specs            export-ignore
+/Makefile         export-ignore
