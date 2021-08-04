@@ -1,0 +1,29 @@
+{
+    "name": "technically/json",
+    "description": "Minimalistic wrapper around PHP native JSON functions, with additional data validity and error checks.",
+    "type": "library",
+    "keywords": [
+        "php",
+        "json",
+        "minimalist"
+    ],
+    "require": {
+        "php": "~7.4 || ~8.0"
+    },
+    "require-dev": {
+        "peridot-php/peridot": "^1.19"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Voskoboinyk",
+            "email": "ivan@voskoboinyk.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "files": [
+            "./src/functions.php"
+        ]
+    }
+}
