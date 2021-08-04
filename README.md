@@ -7,7 +7,7 @@ which always throws an exception in case of an error.
 
 ## Features
 
-- PHP 7.4+
+- PHP 7.3+
 - PHP 8.0
 - Semver
 - Tests
